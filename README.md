@@ -1,2 +1,2 @@
 # Simple-calculator
-A simple calculator while i learn python.
+Uma Calculadora Simple Enquanto Eu Aprendo Python.
